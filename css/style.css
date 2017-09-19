@@ -1,18 +1,20 @@
+/* Fonts */
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
 /* Navigation Bar */
 
-.navbar-default {
+.navbar-custom {
   background-color: #1C214E;
   border-bottom-color: white;
   border-top: none;
   border-left: none;
   border-right: none;
   border-radius: 0;
+  padding-right: 10px;
 }
-
-/*
-.navbar-brand {
-  height: 60px;
-}*/
 
 .navbar-brand > img {
   max-height: 100%;
@@ -21,8 +23,24 @@
   margin: 0 auto;
 }
 
-.navbar .navbar-default >
-.nav >
-li > a {
+.navli-custom a:link {
+  color: white !important;
+}
+
+.navli-custom > a:visited {
+}
+
+.navli-custom > a:hover {
   color: red;
+  background-color: blue;
+}
+
+.navli-custom > a:active {
+}
+
+
+/* Footer */
+
+footer {
+  background-color: #F2F2F2;
 }
