@@ -27,15 +27,12 @@ body {
   color: white !important;
 }
 
-.navli-custom > a:visited {
+.navli-custom a:visited {
 }
 
-.navli-custom > a:hover {
+.navli-custom a:hover {
   color: red;
   background-color: blue;
-}
-
-.navli-custom > a:active {
 }
 
 
@@ -43,4 +40,79 @@ body {
 
 footer {
   background-color: #F2F2F2;
+  color: #4F4F4F;
+  padding:30px 10px 30px 10px;
+}
+
+footer h5 {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+footer p {
+  font-style: italic;
+  font-size: 16px;
+  color: #BDBDBD;
+  line-height: 1.5;
+  padding-top: 10px;
+}
+
+footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 2;
+}
+
+footer ul li a:link{
+  color: #4F4F4F;
+  text-decoration: none;
+}
+
+footer ul li a:visited{
+  color: #4F4F4F;
+  text-decoration: none;
+}
+
+footer .site-map ul li a:hover{
+  text-decoration: none;
+  padding-left: 3px;
+  -webkit-transition: padding-left 0.2s; /* Safari */
+  transition: padding-left 0.2s;
+}
+
+footer ul li a:active{
+  text-decoration: none;
+}
+
+.nav-stacked-custom li {
+  display: inline-block;
+  /*padding: 5px 5px 5px 0px;*/
+}
+
+.fa {
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+  margin-right: 15px;
+  text-align: center;
+  background-color: #BDBDBD;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  color: #F2F2F2 !important;
+}
+
+.fa-linkedin {
+  color: #F2F2F2 !important;
+}
+
+.fa-envelope {
+  color: #F2F2F2 !important;
 }
