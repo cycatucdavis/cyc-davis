@@ -1,0 +1,28 @@
+/* Navigation Bar */
+
+.navbar-default {
+  background-color: #1C214E;
+  border-bottom-color: white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
+}
+
+/*
+.navbar-brand {
+  height: 60px;
+}*/
+
+.navbar-brand > img {
+  max-height: 100%;
+  height: 100%;
+  width: auto;
+  margin: 0 auto;
+}
+
+.navbar .navbar-default >
+.nav >
+li > a {
+  color: red;
+}
