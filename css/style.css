@@ -6,8 +6,61 @@ body {
 
 /* Navigation Bar */
 
+.navbar-default {
+  background-color: #1c214e;
+  border-color: #1c214e;
+}
+.navbar-default .navbar-brand {
+  color: #f2f2f2;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #7378a8;
+}
+.navbar-default .navbar-text {
+  color: #f2f2f2;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #f2f2f2;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #7378a8;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #7378a8;
+  background-color: #1c214e;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #7378a8;
+  background-color: #1c214e;
+}
+.navbar-default .navbar-toggle {
+  border-color: #1c214e;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #1c214e;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #f2f2f2;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #f2f2f2;
+}
+.navbar-default .navbar-link {
+  color: #f2f2f2;
+}
+.navbar-default .navbar-link:hover {
+  color: #7378a8;
+}
+
 .navbar-custom {
-  background-color: #1C214E;
   border-bottom-color: white;
   border-top: none;
   border-left: none;
@@ -23,18 +76,32 @@ body {
   margin: 0 auto;
 }
 
-.navli-custom a:link {
-  color: white !important;
+.navbar-btn {
+  background-color: #1C214E;
+  border: 2px solid #F2F2F2;
+  padding-bottom: 3px;
+  padding-top: 3px;
 }
 
-.navli-custom a:visited {
+.navbar-btn > a:link {
+  color: #F2F2F2;
+  text-decoration: none;
 }
 
-.navli-custom a:hover {
-  color: red;
-  background-color: blue;
+.navbar-btn > a:visited {
+  color: #F2F2F2;
+  text-decoration: none;
 }
 
+.navbar-btn > a:hover {
+  color: #7378a8;
+  text-decoration: none;
+}
+
+.navbar-btn > a:active {
+  color: #7378a8;
+  text-decoration: none;
+}
 
 /* Footer */
 
@@ -51,9 +118,10 @@ footer h5 {
 
 footer p {
   font-style: italic;
-  font-size: 16px;
+  font-size: 14px;
+  font-weight: 400;
   color: #BDBDBD;
-  line-height: 1.5;
+  line-height: 1.8;
   padding-top: 10px;
 }
 
@@ -76,9 +144,7 @@ footer ul li a:visited{
 
 footer .site-map ul li a:hover{
   text-decoration: none;
-  padding-left: 3px;
-  -webkit-transition: padding-left 0.2s; /* Safari */
-  transition: padding-left 0.2s;
+  color: #BDBDBD;
 }
 
 footer ul li a:active{
@@ -87,18 +153,27 @@ footer ul li a:active{
 
 .nav-stacked-custom li {
   display: inline-block;
-  /*padding: 5px 5px 5px 0px;*/
 }
 
 .fa {
   width: 25px;
   height: 25px;
   padding: 5px;
-  margin-right: 15px;
+  margin-right: 10px;
   text-align: center;
   background-color: #BDBDBD;
   text-decoration: none;
   border-radius: 50%;
+}
+
+.fa-copyright-custom {
+  background-color: transparent;
+  color: #BDBDBD;
+  margin: 2px;
+}
+
+#footer-copyright {
+  color: #BDBDBD;
 }
 
 .fa:hover {
@@ -115,4 +190,27 @@ footer ul li a:active{
 
 .fa-envelope {
   color: #F2F2F2 !important;
+}
+
+/* CTA Link */
+.cta-link:link {
+  color: #5361AC;
+  font-weight: 700;
+}
+
+.cta-link:visited {
+  color: #5361AC;
+  font-weight: 700;
+}
+
+.cta-link:hover {
+  color: #5361AC !important;
+  font-weight: 700;
+  padding-left: 3px;
+  transition: padding-left 0.2s;
+}
+
+.cta-link:active {
+  color: #5361AC;
+  font-weight: 700;
 }
