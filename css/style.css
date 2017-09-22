@@ -26,3 +26,7 @@ body {
   color: #5361AC;
   font-weight: 700;
 }
+
+.whitespace {
+  height: 16px;
+}

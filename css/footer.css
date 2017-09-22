@@ -67,7 +67,7 @@ footer ul li a:active{
   margin: 2px;
 }
 
-#footer-copyright {
+.footer-copyright {
   color: #BDBDBD;
 }
 
@@ -91,4 +91,8 @@ footer hr {
   padding: 0;
   margin: 0;
   border-color: #E0E0E0;
+}
+
+.centered-footer {
+  text-align: center;
 }
