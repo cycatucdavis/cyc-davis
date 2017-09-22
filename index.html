@@ -9,9 +9,16 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet">
+    <!-- FontAwesome library -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- My stylesheets. Smaller, separate files to manage while developing, and then to put in one large file.-->
+
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/navbar.css" rel="stylesheet">
+    <link href="css/footer.css" rel="stylesheet">
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -34,7 +41,7 @@
           <li class="navli-custom"><a href="#">Our Team</a></li>
           <li class="navli-custom"><a href="#">Students</a></li>
           <li class="navli-custom"><a href="#">Clients</a></li>
-          <li class="navli-custom"><button type="button" class="btn navbar-btn"><a href="#">Contact</a></button></li>
+          <li class="navli-custom"><button type="button" class="btn navbar-btn" href="#">Contact</button></li>
         </ul>
       </div> <!-- container-fluid -->
     </nav>
@@ -44,7 +51,7 @@
     <footer>
       <div class="container-fluid">
         <div class="row">
-          <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-1">
+          <div class="col-xs-12 col-sm-6 col-sm-offset-1">
 
             <!-- Site map -->
             <div class="row site-map">
@@ -52,21 +59,22 @@
                 <h5>Our Team</h5>
                 <ul>
                   <li><a href="#">Executive Board</a></li>
-                  <hr>
+                  <hr class="hidden-xs">
                   <li><a href="#">Engagement Managers</a></li>
-                  <hr>
+                  <hr class="hidden-xs">
                   <li><a href="#">Consultants</a></li>
+                  <hr class="hidden-xs">
                 </ul>
               </div>
               <div class="col-sm-3">
                 <h5>Students</h5>
                 <ul>
                   <li><a href="#">Recruitment process</a></li>
-                  <hr>
+                  <hr class="hidden-xs">
                   <li><a href="#">Who we look for</a></li>
-                  <hr>
+                  <hr class="hidden-xs">
                   <li><a href="#">Interview resources</a></li>
-                  <hr>
+                  <hr class="hidden-xs">
                   <li><a href="#" class="cta-link"><span>&#9656</span> Apply</a></li>
                 </ul>
               </div>
@@ -74,32 +82,30 @@
                 <h5>Clients</h5>
                 <ul>
                   <li><a href="#">Services</a></li>
-                  <hr>
+                  <hr class="hidden-xs">
                   <li><a href="#">FAQ</a></li>
-                  <hr>
+                  <hr class="hidden-xs">
                   <li><a href="#">Testimonials</a></li>
-                  <hr>
+                  <hr class="hidden-xs">
                   <li><a href="#" class="cta-link"><span>&#9656</span> Apply</a></li>
                 </ul>
               </div>
               <div class="col-sm-3">
                 <h5>Contact</h5>
                 <ul>
-
                   <li><a href="#">Contact form</a></li>
-                  <hr>
-
+                  <hr class="hidden-xs">
                   <li><a href="#">Give us feedback</a></li>
-                  <hr>
-
+                  <hr class="hidden-xs">
                   <li><a href="#">Links</a></li>
+                  <hr class="hidden-xs">
 
                 </ul>
               </div>
             </div> <!-- end nested row -->
           </div> <!-- col-sm-6 offset 1 -->
 
-          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4">
+          <div class="col-xs-12 col-sm-4">
 
             <!-- Mission statement -->
             <p>By utilizing the knowledge and skill-set of the brightest students in America to improve the performance of these businesses, we not only look to develop the next generation of top-tier consultants, but also look to create lasting benefits for our communities, and strengthen our nation from the bottom-up.
