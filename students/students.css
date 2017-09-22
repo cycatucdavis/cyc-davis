@@ -1,0 +1,156 @@
+body {
+  position: relative;
+  font-family: 'Lato', sans-serif;
+}
+
+header {
+  background-color: #5361AC;
+  width: 100%;
+  height: 200px;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #5361AC;
+}
+
+p {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+#section3 a:link {
+  font-weight: 400;
+  color: #5361AC;
+  border-bottom: 1px dashed #5361AC;
+  padding-bottom: 3px;
+}
+
+a:visited {
+}
+
+#section3 a:hover {
+  text-decoration: none;
+}
+
+a:active {
+}
+
+.affix {
+  top: 40px;
+}
+
+/* Styling the navbar */
+
+#sidebar {
+  margin-top: 24px;
+}
+.sidebar-cta {
+    padding-top: 10px;
+    font-weight: 700;
+    color: #5361AC;
+}
+
+.sidebar-title {
+  padding-left: 14px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+footer {
+  width: 100%;
+  height: 300px;
+  background-color: lightgray;
+  margin-top: 40px;
+}
+
+button {
+  background-color: #5361AC;
+  border: none;
+  color: white;
+  width: 200px;
+}
+
+/* Sidebar active */
+.nav-pills > li.active > a {
+  background-color: transparent;
+  color: #5361AC;
+  font-weight: 700;
+}
+
+.nav-pills>li.active>a:hover {
+    background-color: transparent;
+    color: #5361AC;
+}
+
+/* Sidebar NONactive */
+.nav-pills> li > a {
+  color: #4F4F4F;
+}
+
+.nav-pills > li > a:hover {
+  background-color: transparent;
+}
+
+/* Sidebar call to action */
+.nav-pills > .sidebar-cta > a {
+  color: #5361AC;
+}
+
+.affix-bottom {
+  position: absolute;
+}
+
+.panel-default {
+  border-radius: 0px;
+}
+
+.panel > .panel-heading {
+  background-color: transparent;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.panel > .panel-body {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+
+.panel > div span {
+  font-size: 30px;
+  font-weight: 400;
+  color: #E0E0E0;
+  padding-right: 10px;
+}
+
+#schedule {
+  padding-top: 20px;
+}
+
+
+.panel-schedule > .panel-body {
+  background-color: #E0E0E0;
+  border: none;
+  font-size: 16px;
+}
+
+.panel-schedule > .panel-body > ul {
+  list-style: none;
+  padding-left: 0;
+  padding-top: 10px;
+  font-weight: 300;
+}
+
+.panel-schedule > .panel-body > p {
+    font-weight: 700;
+    color: #5361AC;
+}
