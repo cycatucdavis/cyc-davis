@@ -151,3 +151,11 @@ button {
 .panel-body strong {
   font-size: 16px;
 }
+
+header img {
+  width: 100%;
+}
+/* Header
+header {
+  background-image: url(../assets/headers/header_students.jpg);
+}/*
