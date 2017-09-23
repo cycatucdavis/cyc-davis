@@ -2,10 +2,20 @@
 
 header {
   background-color: #5361AC;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
+}
+
+header img {
+  width: 100%;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 /* Breadcrumbs */
+.breadcrumb {
+  border-radius: 0;
+}
+
 header ol li a:link, header ol li a:visited{
   color: #5361AC;
   text-decoration: none;
@@ -14,10 +24,6 @@ header ol li a:link, header ol li a:visited{
 header ol li a:hover, header ol li a:active {
   text-decoration: none;
   color: #BDBDBD;
-
-}
-header ol li a:active{
-
 }
 
 /* Fonts */
@@ -75,14 +81,6 @@ a:visited {
   font-size: 24px;
   font-weight: 700;
 }
-
-/*
-button {
-  background-color: #5361AC;
-  border: none;
-  color: white;
-  width: 200px;
-}*/
 
 /* Sidebar active */
 .nav-pills > li.active > a {
@@ -166,17 +164,3 @@ button {
 .panel-body strong {
   font-size: 16px;
 }
-
-header img {
-  width: 100%;
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
-.breadcrumb {
-  border-radius: 0;
-}
-/* Header
-header {
-  background-image: url(../assets/headers/header_students.jpg);
-}/*
