@@ -5,6 +5,21 @@ header {
   margin-bottom: 40px;
 }
 
+/* Breadcrumbs */
+header ol li a:link, header ol li a:visited{
+  color: #5361AC;
+  text-decoration: none;
+}
+
+header ol li a:hover, header ol li a:active {
+  text-decoration: none;
+  color: #BDBDBD;
+
+}
+header ol li a:active{
+
+}
+
 /* Fonts */
 
 h1 {
@@ -154,6 +169,12 @@ button {
 
 header img {
   width: 100%;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.breadcrumb {
+  border-radius: 0;
 }
 /* Header
 header {
