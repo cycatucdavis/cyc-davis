@@ -128,12 +128,23 @@
 
             <form method="POST" action="http://formspree.io/sophiemaquiling@gmail.com">
               <input type="hidden" name="_subject" value="New Message - Contact Form" />
-              <input type="text" name="name" placeholder="Your name" />
-              <input type="text" name="email" placeholder="Your email" />
-              <input type="text" name="message" placeholder="Your message" />
+              <div class="form-group">
+                <label>Name</label>
+                <input type="text" class="form-control" name="name" placeholder="Your name" />
+              </div>
+              <div class="form-group">
+                <label>Email</label>
+                <input type="text" class="form-control" name="email" placeholder="Your email" />
+              </div>
+              <div class="form-group">
+                <label>Your message</label>
+                <input type="text" name="message" class="form-control" placeholder="Your message" />
+              </div>
+
               <button type="submit">Submit</button>
             </form>
           </div>
+          <hr / />
           <!-- END Section 1 - Contact Form -->
 
           <!--
@@ -147,8 +158,8 @@
 
             <form method="POST" action="http://formspree.io/sophiemaquiling@gmail.com">
               <input type="hidden" name="_subject" value="New Message - Feedback" />
-              <textarea rows="6">Your message</textarea>
-              <select name="iama">
+              <textarea class="form-control" rows="6">Your message</textarea>
+              <select class="form-control" name="iama">
                 <option>I am a current student member</option>
                 <option>I am a past student member</option>
                 <option>I am an applicant</<option>
@@ -157,6 +168,7 @@
               <button type="submit">Submit</button>
             </form>
           </div>
+          <hr />
           <!-- END Section 2 - Feedback -->
 
           <!--
