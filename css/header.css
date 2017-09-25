@@ -1,0 +1,27 @@
+/* Header */
+
+header {
+  background-color: #5361AC;
+  margin-bottom: 0px;
+}
+
+header img {
+  width: 100%;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Breadcrumbs */
+.breadcrumb {
+  border-radius: 0;
+}
+
+header ol li a:link, header ol li a:visited{
+  color: #5361AC;
+  text-decoration: none;
+}
+
+header ol li a:hover, header ol li a:active {
+  text-decoration: none;
+  color: #BDBDBD;
+}

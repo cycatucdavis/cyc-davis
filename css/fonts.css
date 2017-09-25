@@ -1,0 +1,18 @@
+/* Fonts */
+
+h1 {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #5361AC;
+}
+
+p {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.5em;
+}

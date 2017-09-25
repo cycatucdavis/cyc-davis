@@ -1,0 +1,54 @@
+/* Sticky sidebar */
+
+main {
+  position: relative;
+}
+#sidebar {
+  margin-top: 24px;
+}
+
+.affix {
+  top: 40px;
+}
+
+.sidebar-cta {
+    padding-top: 10px;
+    font-weight: 700;
+    color: #5361AC;
+}
+
+.sidebar-title {
+  padding-left: 14px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Sidebar active */
+.nav-pills > li.active > a {
+  background-color: transparent;
+  color: #5361AC;
+  font-weight: 700;
+}
+
+.nav-pills>li.active>a:hover {
+    background-color: transparent;
+    color: #5361AC;
+}
+
+/* Sidebar NONactive */
+.nav-pills> li > a {
+  color: #4F4F4F;
+}
+
+.nav-pills > li > a:hover {
+  background-color: transparent;
+}
+
+/* Sidebar call to action */
+.nav-pills > .sidebar-cta > a {
+  color: #5361AC;
+}
+
+.affix-bottom {
+  position: absolute;
+}
