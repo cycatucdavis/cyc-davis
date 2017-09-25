@@ -123,19 +123,39 @@
           -
           -->
           <div id="contact-form">
-            <h1>Contact Form</h1>
+            <h1>Contact form</h1>
             <h2>Subtitle</h2>
+
+            <form method="POST" action="http://formspree.io/sophiemaquiling@gmail.com">
+              <input type="hidden" name="_subject" value="New Message - Contact Form" />
+              <input type="text" name="name" placeholder="Your name" />
+              <input type="text" name="email" placeholder="Your email" />
+              <input type="text" name="message" placeholder="Your message" />
+              <button type="submit">Submit</button>
+            </form>
           </div>
           <!-- END Section 1 - Contact Form -->
 
           <!--
           -
-          -  Section 2 - Feedback
+          -  Section 2 - Feedback form
           -
           -->
           <div id="feedback">
-            <h1>Give us Feedback</h1>
+            <h1>Give us feedback</h1>
             <h2>Subtitle</h2>
+
+            <form method="POST" action="http://formspree.io/sophiemaquiling@gmail.com">
+              <input type="hidden" name="_subject" value="New Message - Feedback" />
+              <textarea rows="6">Your message</textarea>
+              <select name="iama">
+                <option>I am a current student member</option>
+                <option>I am a past student member</option>
+                <option>I am an applicant</<option>
+                <option>I am a past or current client</option>
+              </select>
+              <button type="submit">Submit</button>
+            </form>
           </div>
           <!-- END Section 2 - Feedback -->
 
@@ -146,9 +166,14 @@
           -->
           <div id="links">
             <h1>Links</h1>
-            <h2>Subtitle</h2>
+            <h2>You can also reach us here.</h2>
           </div>
           <!-- END Section 3 - Links -->
+          <ul>
+            <li><a href="#" class="bodylink">Facebook</a></li>
+            <li><a href="#" class="bodylink">LinkedIn</a></li>
+            <li><a href="#" class="bodylink">Email</a></li>
+            </ul>
 
         </div>
         <!-- END Main Content-->
@@ -173,22 +198,22 @@
               <h5>Our Team</h5>
               <ul>
                 <li><a href="#">Executive Board</a></li>
-                <hr>
+                <hr />
                 <li><a href="#">Engagement Managers</a></li>
-                <hr>
+                <hr />
                 <li><a href="#">Consultants</a></li>
-                <hr>
+                <hr />
               </ul>
             </div>
             <div class="col-xs-6 col-sm-3">
               <h5>Students</h5>
               <ul>
                 <li><a href="#">Recruitment process</a></li>
-                <hr>
+                <hr />
                 <li><a href="#">Who we look for</a></li>
-                <hr>
+                <hr />
                 <li><a href="#">Interview resources</a></li>
-                <hr>
+                <hr />
                 <li><a href="#" class="cta-link">&#9656; Apply</a></li>
               </ul>
             </div>
@@ -198,11 +223,11 @@
               <h5>Clients</h5>
               <ul>
                 <li><a href="#">Services</a></li>
-                <hr>
+                <hr />
                 <li><a href="#">FAQ</a></li>
-                <hr>
+                <hr />
                 <li><a href="#">Testimonials</a></li>
-                <hr>
+                <hr />
                 <li><a href="#" class="cta-link">&#9656; Apply</a></li>
               </ul>
             </div>
@@ -210,11 +235,11 @@
               <h5>Contact</h5>
               <ul>
                 <li><a href="#">Contact form</a></li>
-                <hr>
+                <hr />
                 <li><a href="#">Give us feedback</a></li>
-                <hr>
+                <hr />
                 <li><a href="#">Links</a></li>
-                <hr>
+                <hr />
               </ul>
             </div>
           </div>
