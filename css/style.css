@@ -1,38 +1,37 @@
-/* Fonts */
+/* Body */
 
 body {
   font-family: 'Lato', sans-serif;
+  padding-top: 50px;
+  background-color: white;
 }
 
-/* Header Display */
+/*
+ *
+ * Fonts
+ *
+ */
 
-header {
-  background-color: #1C214E;
-}
-
-.jumbotron a:link, .jumbotron a:visited {
-  color: white;
-}
-
-.jumbotron h1 {
-  font-family: 'Playfair Display', serif;
+h1 {
+  font-size: 32px;
   font-weight: 700;
-  color: white;
-  font-size: 100px;
 }
 
-.jumbotron p {
-  font-size: 1em;
+h2 {
+  font-size: 18px;
+  font-weight: 400;
+  color: #5361AC;
+}
+
+p {
   font-weight: 300;
-  color: black;
+  font-size: 16px;
+  line-height: 1.5em;
 }
 
-.jumbotron {
-  background-color: gray;
-  border-radius: none;
+.italics {
+  font-style: italic;
 }
-
-/* CTA Link */
 
 .cta-link:link {
   color: #5361AC;
@@ -60,7 +59,368 @@ header {
   height: 16px;
 }
 
-/* Images on home page (sponsors) */
+/* Body links
+ * (big standout links)
+ */
+
+.bodylink:link, .bodylink:visited {
+  color: #5361AC;
+  font-weight: 500;
+  border-bottom: 1px dashed #5361AC;
+}
+
+.bodylink:hover, .bodylink:active {
+  color: #BDBDBD;
+  text-decoration: none;
+  border-bottom-color: #BDBDBD;
+}
+
+/* Links within p and forms */
+
+p a:link, p a:visited, label a:link, label a:visited {
+  color: #5361AC;
+  font-weight: 500;
+}
+
+p a:hover, p a:active, label a:hover, label a:active {
+  color: #5361AC;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+/*
+ * Navigation Bar
+ *
+ * navbar button is missing from this
+ *
+ */
+
+.navbar-default {
+  background-color: #1c214e;
+  border-color: #1c214e;
+}
+
+.navbar-default .navbar-brand {
+  color: #f2f2f2;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  /*color: #7378a8;*/
+  color: #BDBDBD;
+}
+
+.navbar-default .navbar-text {
+  color: #f2f2f2;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #f2f2f2;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+  /*color: #7378a8;*/
+  color: #BDBDBD;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  color: #BDBDBD;
+  background-color: #1c214e;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+  color: #BDBDBD;
+  background-color: #1c214e;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: #1c214e;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #1c214e;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #f2f2f2;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #f2f2f2;
+}
+
+.navbar-default .navbar-link {
+  color: #f2f2f2;
+}
+
+.navbar-default .navbar-link:hover {
+  color: #BDBDBD;
+}
+
+.navbar-custom {
+  /*border-bottom-color: #f2f2f2;*/
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
+  padding-right: 10px;
+}
+
+.navbar-brand>img {
+  max-height: 100%;
+  height: 100%;
+  width: auto;
+  margin: 0 auto;
+}
+
+.navbar-default {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Footer */
+
+footer {
+  background-color: #F2F2F2;
+  color: #4F4F4F;
+  padding: 30px 10px 30px 10px;
+  margin-top: 40px;
+}
+
+footer h5 {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+footer p {
+  /*font-style: italic;*/
+  font-size: 1em;
+  /* 14 px */
+  font-weight: 400;
+  color: #BDBDBD;
+  /*line-height: 1.8;*/
+  padding-top: 10px;
+}
+
+footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 2;
+}
+
+footer ul li a:link {
+  color: #4F4F4F;
+  text-decoration: none;
+}
+
+footer ul li a:visited {
+  color: #4F4F4F;
+  text-decoration: none;
+}
+
+footer .site-map ul li a:hover {
+  text-decoration: none;
+  color: #BDBDBD;
+}
+
+footer ul li a:active {
+  text-decoration: none;
+}
+
+.centered-footer {
+  text-align: center;
+}
+
+.nav-stacked-custom li {
+  display: inline-block;
+}
+
+.fa {
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+  margin-right: 10px;
+  text-align: center;
+  background-color: #BDBDBD;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-copyright-custom {
+  background-color: transparent;
+  color: #BDBDBD;
+  margin: 2px;
+}
+
+.footer-copyright {
+  color: #BDBDBD;
+  font-weight: 300;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  color: #F2F2F2 !important;
+}
+
+.fa-linkedin {
+  color: #F2F2F2 !important;
+}
+
+.fa-envelope {
+  color: #F2F2F2 !important;
+}
+
+footer hr {
+  padding: 0;
+  margin: 0;
+  border-color: #E0E0E0;
+}
+
+/* Page Headers */
+
+header {
+  margin-bottom: 0px;
+}
+
+header img {
+  width: 100%;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Breadcrumbs */
+
+.breadcrumb {
+  border-radius: 0;
+}
+
+header ol li a:link, header ol li a:visited {
+  color: #5361AC;
+  text-decoration: none;
+}
+
+header ol li a:hover, header ol li a:active {
+  text-decoration: none;
+  color: #BDBDBD;
+}
+
+/*
+ *
+ * Sticky sidebar
+ *
+ */
+
+main {
+  position: relative;
+}
+
+#sidebar {
+  margin-top: 24px;
+}
+
+.affix {
+  top: 40px;
+}
+
+.sidebar-cta {
+  padding-top: 10px;
+  font-weight: 700;
+  color: #5361AC;
+}
+
+.sidebar-title {
+  padding-left: 14px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* Sidebar active */
+
+.nav-pills>li.active>a {
+  background-color: transparent;
+  color: #5361AC;
+  font-weight: 700;
+}
+
+.nav-pills>li.active>a:hover {
+  background-color: transparent;
+  color: #5361AC;
+}
+
+/* Sidebar NONactive */
+
+.nav-pills>li>a {
+  color: #4F4F4F;
+}
+
+.nav-pills>li>a:hover {
+  background-color: transparent;
+}
+
+/* Sidebar call to action */
+
+.nav-pills>.sidebar-cta>a {
+  color: #5361AC;
+}
+
+.affix-bottom {
+  position: absolute;
+}
+
+/* Buttons */
+
+.btn-lg {
+  background-color: #5361AC;
+  border: none;
+  width: 140px;
+  color: white;
+}
+
+form button {
+  background-color: #5361AC;
+  border: none;
+  color: white;
+  font-size: 18px;
+  border-radius: 3px;
+  width: 105px;
+  height: 40px;
+}
+
+/*
+ *
+ * Page specific styling
+ *
+ *
+ */
+
+/* Home Page - Jumbotron */
+
+.jumbotron a:link, .jumbotron a:visited {
+  color: white;
+}
+
+.jumbotron h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  color: white;
+  font-size: 100px;
+}
+
+.jumbotron p {
+  font-size: 1em;
+  font-weight: 300;
+  color: black;
+}
+
+.jumbotron {
+  background-color: gray;
+  border-radius: 0px;
+}
+
+/* Home Page - Sponsors */
 
 #sponsors {
   background-color: #E0E0E0;

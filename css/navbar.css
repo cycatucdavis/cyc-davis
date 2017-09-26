@@ -80,7 +80,12 @@
   margin: 0 auto;
 }
 
-/* Navbar Button */
+.navbar-default {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Navbar Button (below NOT copied over)  */
 
 /*.navbar-btn {
   background-color: #1C214E;
@@ -107,9 +112,4 @@
   color: #BDBDBD;
   text-decoration: none;
   background-color: #F2F2F2;
-}
-
-.navbar-default {
-  margin-bottom: 0;
-  padding-bottom: 0;
 }
