@@ -88,13 +88,14 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h1>Consultant Application</h1>
-            <h2>Submit this application by October 9<sup>th</sup> at 11:59 pm.</h2>
-            <p>
-              Learn more about the recruitment process <a href="#">here</a>.
-            </p>
 
-            <form method="POST" action="http://formspree.io/sophiemaquiling@gmail.com">
+
+            <form class="application" method="POST" action="http://formspree.io/sophiemaquiling@gmail.com">
+              <h1>Consultant Application</h1>
+              <h2>Submit this application by October 9<sup>th</sup> at 11:59 pm.</h2>
+              <p>
+                Learn more about the recruitment process <a href="#">here</a>.
+              </p>
               <input type="hidden" name="_subject" value="Application Submitted - Student" />
               <input type="hidden" name="_next" value="//sopmaq.github.io/cyc-davis/students/apply/students-confirmation.html" />
               <fieldset>
@@ -103,13 +104,13 @@
                   <div class="col-sm-6">
                     <div class="form-group">
                       <label>Name</label>
-                      <input type="text" class="form-control" name="Name" required>
+                      <input type="text" class="form-control" name="Name" placeholder="First last" required>
                     </div>
                   </div>
                   <div class="col-sm-6">
                     <div class="form-group">
                       <label>Email</label>
-                      <input type="email" class="form-control" name="Email" required>
+                      <input type="email" class="form-control" name="Email" placeholder="name@example.com" required>
                     </div>
                   </div>
                 </div>
@@ -142,7 +143,7 @@
 
                     <div class="form-group">
                       <label>Major(s)</label>
-                      <input type="text" name="Major(s)" class="form-control" placeholder="Major(s)" required>
+                      <input type="text" name="Major(s)" class="form-control" required>
                     </div>
                   </div>
 
@@ -157,7 +158,7 @@
                       <div class="col-sm-6">
                         <div class="form-group">
                           <label>Cumulative GPA</label>
-                          <input type="text" name="Cumulative GPA" class="form-control" placeholder="x.x" required>
+                          <input type="text" name="Cumulative GPA" class="form-control" placeholder="0.00" required>
                         </div>
                       </div>
                     </div>
