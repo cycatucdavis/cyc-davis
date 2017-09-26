@@ -426,3 +426,120 @@ form button {
   background-color: #E0E0E0;
   padding: 50px 0px 50px 0px;
 }
+
+/* Clients and Students - Panels */
+
+/* Schedule */
+
+.panel-default {
+  border-radius: 0px;
+}
+
+.panel>.panel-heading {
+  background-color: transparent;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.panel-client .panel-heading {
+  font-size: 16px;
+}
+
+.panel>.panel-body {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.panel>div span {
+  font-size: 30px;
+  font-weight: 400;
+  color: #E0E0E0;
+  padding-right: 10px;
+}
+
+#schedule {
+  padding-top: 20px;
+}
+
+.panel-schedule>.panel-body {
+  background-color: #E0E0E0;
+  border: none;
+  font-size: 16px;
+}
+
+.panel-schedule>.panel-body>ul {
+  list-style: none;
+  padding-left: 0;
+  padding-top: 10px;
+  font-weight: 300;
+}
+
+/* Old temp link styling */
+
+.panel-schedule>.panel-body>p {
+  font-weight: 700;
+  color: #5361AC;
+  font-size: 14px;
+}
+
+.panel-body strong {
+  font-size: 14px;
+}
+
+/* Style Panel CTAs */
+
+.cta-body:link, .cta-body:visited {
+  color: #5361AC;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.cta-body:hover, .cta-body:active {
+  color: #5361AC;
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+/* Clients - Testimonial Logos */
+
+.testimonial-logo {
+  margin: 0 auto;
+}
+
+/* Clients App - List */
+
+.client-app-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.client-app-list li {
+  padding: 10px 0px 10px 0px;
+}
+
+.form-group label {
+  /*color: #5361AC;*/
+  color: #4F4F4F;
+  font-weight: 500;
+}
+
+.form-section {
+  color: #5361AC;
+  font-size: 18px;
+  padding: 5px 0px 5px 0px;
+}
+
+fieldset {
+  margin-top: 20px;
+}
+
+.checkbox {
+  margin-bottom: 20px;
+}
+
+.application, .app-confirmation {
+  background-color: #F2F2F2;
+  padding: 30px;
+  margin-top: 30px;
+}

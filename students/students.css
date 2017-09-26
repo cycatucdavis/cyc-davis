@@ -1,21 +1,32 @@
+/*
+*
+*
+*
+*
+DELETE MEEEE
+*
+*
+*
+*/
+
 /* Schedule */
+
 .panel-default {
   border-radius: 0px;
 }
 
-.panel > .panel-heading {
+.panel>.panel-heading {
   background-color: transparent;
   font-weight: 700;
   font-size: 18px;
 }
 
-.panel > .panel-body {
+.panel>.panel-body {
   font-size: 16px;
   font-weight: 300;
 }
 
-
-.panel > div span {
+.panel>div span {
   font-size: 30px;
   font-weight: 400;
   color: #E0E0E0;
@@ -26,14 +37,13 @@
   padding-top: 20px;
 }
 
-
-.panel-schedule > .panel-body {
+.panel-schedule>.panel-body {
   background-color: #E0E0E0;
   border: none;
   font-size: 16px;
 }
 
-.panel-schedule > .panel-body > ul {
+.panel-schedule>.panel-body>ul {
   list-style: none;
   padding-left: 0;
   padding-top: 10px;
@@ -41,10 +51,11 @@
 }
 
 /* Old temp link styling */
-.panel-schedule > .panel-body > p {
-    font-weight: 700;
-    color: #5361AC;
-    font-size: 14px;
+
+.panel-schedule>.panel-body>p {
+  font-weight: 700;
+  color: #5361AC;
+  font-size: 14px;
 }
 
 .panel-body strong {
@@ -52,6 +63,7 @@
 }
 
 /* Style Panel CTAs */
+
 .cta-body:link, .cta-body:visited {
   color: #5361AC;
   font-weight: 700;
