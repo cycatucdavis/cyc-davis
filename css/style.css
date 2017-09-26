@@ -59,3 +59,10 @@ header {
 .whitespace {
   height: 16px;
 }
+
+/* Images on home page (sponsors) */
+
+#sponsors {
+  background-color: #E0E0E0;
+  padding: 50px 0px 50px 0px;
+}
