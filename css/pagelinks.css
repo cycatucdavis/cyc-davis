@@ -1,9 +1,12 @@
-
 /* Style Page Links
  *
  * .col-sm-7 a:link, .col-sm-7 a:visited
  *
 */
+
+/* Body links
+ * (big standout links)
+ */
 
 .bodylink:link, .bodylink:visited {
   color: #5361AC;
@@ -11,8 +14,21 @@
   border-bottom: 1px dashed #5361AC;
 }
 
-.bodylink:hover, .bodylink:active{
+.bodylink:hover, .bodylink:active {
   color: #BDBDBD;
   text-decoration: none;
   border-bottom-color: #BDBDBD;
+}
+
+/* Links within p and forms */
+
+p a:link, p a:visited, label a:link, label a:visited {
+  color: #5361AC;
+  font-weight: 500;
+}
+
+p a:hover, p a:active, label a:hover, label a:active {
+  color: #5361AC;
+  font-weight: 500;
+  text-decoration: none;
 }
