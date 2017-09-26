@@ -71,6 +71,7 @@ footer ul li a:active {
 
 .footer-copyright {
   color: #BDBDBD;
+  font-weight: 300;
 }
 
 .fa:hover {
