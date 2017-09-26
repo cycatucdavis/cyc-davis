@@ -18,7 +18,7 @@ fieldset {
   margin-bottom: 20px;
 }
 
-.application {
+.application, .app-confirmation {
   background-color: #F2F2F2;
   padding: 30px;
   margin-top: 30px;
