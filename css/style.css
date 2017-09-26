@@ -4,7 +4,36 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+/* Header Display */
+
+header {
+  background-color: #1C214E;
+}
+
+.jumbotron a:link, .jumbotron a:visited {
+  color: white;
+}
+
+.jumbotron h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  color: white;
+  font-size: 100px;
+}
+
+.jumbotron p {
+  font-size: 1em;
+  font-weight: 300;
+  color: black;
+}
+
+.jumbotron {
+  background-color: gray;
+  border-radius: none;
+}
+
 /* CTA Link */
+
 .cta-link:link {
   color: #5361AC;
   font-weight: 700;
