@@ -43,14 +43,14 @@ p {
   font-weight: 700;
 }
 
-.cta-link:hover {
+.cta-link:hover, .cta-body:hover {
   color: #5361AC !important;
   font-weight: 700;
-  padding-left: 3px;
-  -webkit-transition: padding-left 0.1s;
-  -moz-transition: padding-left 0.1s;
-  -o-transition: padding-left 0.1s;
-  transition: padding-left 0.1s;
+  padding-left: 8px;
+  -webkit-transition: padding-left 0.5s;
+  -moz-transition: padding-left 0.5s;
+  -o-transition: padding-left 0.5s;
+  transition: padding-left 0.5s;
 }
 
 .cta-link:active {
@@ -332,10 +332,20 @@ main {
 }
 
 .sidebar-cta {
+  position: relative;
   padding-top: 10px;
   font-weight: 700;
   color: #5361AC;
 }
+
+.sidebar-cta > a:hover, .sidebar-cta > a:active {
+  padding-left: 30px;
+  -webkit-transition: padding-left 1s;
+  -moz-transition: padding-left 1s;
+  -o-transition: padding-left 1s;
+  transition: padding-left 1s;
+}
+
 
 .sidebar-title {
   padding-left: 14px;
