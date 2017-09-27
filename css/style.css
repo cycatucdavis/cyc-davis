@@ -47,7 +47,10 @@ p {
   color: #5361AC !important;
   font-weight: 700;
   padding-left: 3px;
-  transition: padding-left 0.2s;
+  -webkit-transition: padding-left 0.1s;
+  -moz-transition: padding-left 0.1s;
+  -o-transition: padding-left 0.1s;
+  transition: padding-left 0.1s;
 }
 
 .cta-link:active {
@@ -63,6 +66,7 @@ p {
  * (big standout links)
  */
 
+
 .bodylink:link, .bodylink:visited {
   color: #5361AC;
   font-weight: 500;
@@ -76,6 +80,7 @@ p {
   /* Safari */
   transition: border-bottom 0.3s;
 }
+
 
 /* Links within p and forms */
 
@@ -388,6 +393,16 @@ form button {
   border-radius: 3px;
   width: 105px;
   height: 40px;
+}
+
+form button:hover,
+a[role=button]:hover {
+    color: white;
+    background-color: #858DC6;
+    -webkit-transition: background-color 0.3s;
+    -moz-transition: background-color 0.3s;
+    -o-transition: background-color 0.3s;
+    transition: background-color 0.3s;
 }
 
 /*
