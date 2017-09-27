@@ -38,8 +38,24 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
             <li class="navli-custom"><a href="../../team/team.html">Our Team</a></li>
-            <li class="navli-custom"><a href="../../students/students.html">Students</a></li>
-            <li class="navli-custom active"><a href="../clients.html">Clients</a></li>
+            <!-- Students Dropdown -->
+            <li class="dropdown navli-custom">
+              <a href="../../students/students.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Students <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="../../students/students.html">About</a></li>
+                <li><a href="../../students/apply/students-apply.html">Consultant Application</a></li>
+              </ul>
+            </li>
+        <!-- END dropdown -->
+        <!-- Clients Dropdown -->
+        <li class="dropdown navli-custom active">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Clients <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="../clients.html">About</a></li>
+            <li><a href="#">Client Application</a></li>
+          </ul>
+        </li>
+    <!-- END dropdown -->
             <li class="navli-custom"><a href="../../contact/contact.html">Contact</a></li>
           </ul>
         </div>
