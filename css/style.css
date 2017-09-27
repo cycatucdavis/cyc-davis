@@ -233,7 +233,7 @@ footer ul li a:active {
   display: inline-block;
 }
 
-.fa {
+footer .fa {
   width: 25px;
   height: 25px;
   padding: 5px;
@@ -244,7 +244,7 @@ footer ul li a:active {
   border-radius: 50%;
 }
 
-.fa-copyright-custom {
+footer .fa-copyright-custom {
   background-color: transparent;
   color: #BDBDBD;
   margin: 2px;
@@ -255,19 +255,19 @@ footer ul li a:active {
   font-weight: 300;
 }
 
-.fa:hover {
+footer .fa:hover {
   opacity: 0.7;
 }
 
-.fa-facebook {
+footer .fa-facebook {
   color: #F2F2F2 !important;
 }
 
-.fa-linkedin {
+footer .fa-linkedin {
   color: #F2F2F2 !important;
 }
 
-.fa-envelope {
+footer .fa-envelope {
   color: #F2F2F2 !important;
 }
 
