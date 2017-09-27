@@ -501,6 +501,15 @@ form button {
   text-decoration: none;
 }
 
+/* Clients Page - Panels */
+
+.panel-client>.panel-body>ul {
+  padding-left: 15px;
+  list-style-type: none;
+  list-style-image: url(../assets/bullets/dashes.png);
+}
+
+.panel-clietn
 /* Clients - Testimonial Logos */
 
 .testimonial-logo {
