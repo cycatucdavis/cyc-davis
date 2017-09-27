@@ -71,7 +71,10 @@ p {
 
 .bodylink:hover, .bodylink:active {
   text-decoration: none;
-  border-bottom: none;
+  border-bottom-color: white;
+  -webkit-transition: border-bottom 0.3s;
+  /* Safari */
+  transition: border-bottom 0.3s;
 }
 
 /* Links within p and forms */
