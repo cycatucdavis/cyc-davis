@@ -70,9 +70,8 @@ p {
 }
 
 .bodylink:hover, .bodylink:active {
-  color: #BDBDBD;
   text-decoration: none;
-  border-bottom-color: #BDBDBD;
+  border-bottom: none;
 }
 
 /* Links within p and forms */
@@ -183,7 +182,6 @@ footer {
   background-color: #F2F2F2;
   color: #4F4F4F;
   padding: 30px 10px 30px 10px;
-  margin-top: 40px;
 }
 
 footer h5 {
@@ -509,10 +507,7 @@ form button {
   list-style-image: url(../assets/bullets/dashes.png);
 }
 
-.panel-clietn
-/* Clients - Testimonial Logos */
-
-.testimonial-logo {
+.img-testimonial {
   margin: 0 auto;
 }
 
