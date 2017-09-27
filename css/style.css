@@ -58,6 +58,8 @@ p {
   font-weight: 700;
 }
 
+/* Useful page things */
+
 .whitespace {
   height: 16px;
 }
@@ -185,6 +187,10 @@ p a:hover, p a:active, label a:hover, label a:active {
 }
 
 /* Footer */
+
+.last-row {
+  padding-bottom: 40px;
+}
 
 footer {
   background-color: #F2F2F2;
