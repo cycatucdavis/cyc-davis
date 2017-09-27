@@ -493,6 +493,7 @@ a[role=button]:hover {
 
 .jumbotron a:link, .jumbotron a:visited {
   color: white;
+  margin: 0 auto;
 }
 
 .jumbotron h1 {
@@ -500,12 +501,14 @@ a[role=button]:hover {
   font-weight: 700;
   color: white;
   font-size: 6em;
+  max-width: 600px;
 }
 
 .jumbotron p {
   font-size: 1em;
   font-weight: 300;
-  color: black;
+  color: #F2F2F2;
+  max-width: 300px;
 }
 
 .jumbotron {
@@ -658,6 +661,9 @@ h4 {
   margin-bottom: 5px;
 }
 
+#exec .row {
+  padding-right: 50px;
+}
 /* List divider */
 .divider {
   height: 1px;
