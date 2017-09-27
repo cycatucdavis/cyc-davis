@@ -110,35 +110,36 @@ p a:hover, p a:active, label a:hover, label a:active {
 }
 
 .navbar-default .navbar-brand {
-  color: #f2f2f2;
+  color: white;
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
   /*color: #7378a8;*/
-  color: #2E335F;
+  color: #DFDFFF;
 }
 
 .navbar-default .navbar-text {
-  color: #f2f2f2;
+  color: white;
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #f2f2f2;
+  color: white;
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
   /*color: #7378a8;*/
-  color: #BDBDBD;
+  color: #DFDFFF;
+text-decoration-color: #353c74;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-  color: #BDBDBD;
-  background-color: #1c214e;
+  color: white;
+  background-color: #353c74;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
-  color: #BDBDBD;
-  background-color: #1c214e;
+  color: white;
+  padding: 15px;
 }
 
 .navbar-default .navbar-toggle {
@@ -146,23 +147,24 @@ p a:hover, p a:active, label a:hover, label a:active {
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #1c214e;
+  background-color: #353c74;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #f2f2f2;
+  background-color: white;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-  border-color: #f2f2f2;
+  border-color: white;
 }
 
 .navbar-default .navbar-link {
-  color: #f2f2f2;
+  color: white;
 }
 
 .navbar-default .navbar-link:hover {
-  color: #BDBDBD;
+  color: #DFDFFF;
+  padding: 15px;
 }
 
 .navbar-custom {
