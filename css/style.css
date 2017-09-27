@@ -113,7 +113,7 @@ p a:hover, p a:active, label a:hover, label a:active {
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
   /*color: #7378a8;*/
-  color: #BDBDBD;
+  color: #2E335F;
 }
 
 .navbar-default .navbar-text {
@@ -226,7 +226,7 @@ footer ul li a:visited {
 
 footer .site-map ul li a:hover {
   text-decoration: none;
-  color: #BDBDBD;
+  color: #828282;
 }
 
 footer ul li a:active {
@@ -310,7 +310,7 @@ header ol li a:link, header ol li a:visited {
 
 header ol li a:hover, header ol li a:active {
   text-decoration: none;
-  color: #BDBDBD;
+  color: #828282;
 }
 
 /*
@@ -329,21 +329,6 @@ main {
 
 .affix {
   top: 40px;
-}
-
-.sidebar-cta {
-  position: relative;
-  padding-top: 10px;
-  font-weight: 700;
-  color: #5361AC;
-}
-
-.sidebar-cta > a:hover, .sidebar-cta > a:active {
-  padding-left: 30px;
-  -webkit-transition: padding-left 1s;
-  -moz-transition: padding-left 1s;
-  -o-transition: padding-left 1s;
-  transition: padding-left 1s;
 }
 
 
@@ -374,13 +359,33 @@ main {
 
 .nav-pills>li>a:hover {
   background-color: transparent;
+  color: #828282;
 }
 
-/* Sidebar call to action */
+/* Sidebar CTA styling */
 
-.nav-pills>.sidebar-cta>a {
+.nav-pills>.sidebar-cta>a:link,
+.nav-pills>.sidebar-cta>a:visited,
+.nav-pills>.sidebar-cta>a:hover,
+.nav-pills>.sidebar-cta>a:active {
   color: #5361AC;
 }
+
+.sidebar-cta {
+  position: relative;
+  padding-top: 10px;
+  font-weight: 700;
+  color: #5361AC;
+}
+
+.sidebar-cta > a:hover, .sidebar-cta > a:active {
+  padding-left: 30px;
+  -webkit-transition: padding-left 1s;
+  -moz-transition: padding-left 1s;
+  -o-transition: padding-left 1s;
+  transition: padding-left 1s;
+}
+
 
 .affix-bottom {
   position: absolute;
@@ -539,6 +544,14 @@ a[role=button]:hover {
   margin: 0 auto;
 }
 
+/* Students App - Link */
+form a:link, form a:visited {
+  color: #5361AC;
+}
+
+form a:hover, form a:active {
+  color: #828282;
+}
 /* Clients App - List */
 
 .client-app-list {
