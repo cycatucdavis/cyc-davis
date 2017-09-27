@@ -389,7 +389,11 @@ main {
 }
 
 .affix {
-  top: 40px;
+  top: 120px;
+}
+
+.affix-bottom {
+  position: absolute;
 }
 
 
@@ -448,9 +452,6 @@ main {
 }
 
 
-.affix-bottom {
-  position: absolute;
-}
 
 /* Buttons */
 
