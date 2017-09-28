@@ -690,3 +690,11 @@ h4 {
   padding: 30px 0px 30px 0px;
   text-align: center;
 }
+
+.jumbotron {
+  background: url('../assets/headers/header-home.png') no-repeat center center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+   }
