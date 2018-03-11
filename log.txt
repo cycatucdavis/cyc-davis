@@ -1,0 +1,601 @@
+commit a4947ed719430856946244eaca637214ec93f61a
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Fri Feb 23 12:23:03 2018 -0800
+
+    Update alts on team headshots
+
+commit c0765652b2fdda07a7f6bb6f72a54b07014b688b
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Fri Feb 23 12:20:43 2018 -0800
+
+    Update footers
+
+commit 97752344529b5cbac38a4cd94c4fc2967e5740ea
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Fri Feb 23 12:17:17 2018 -0800
+
+    Add wq headshots
+
+commit c528dfa90fe53da1c5686047616e6b298abacb17
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Fri Jan 26 23:21:28 2018 -0800
+
+    Update client and team headers
+
+commit 490b4f69b26dc0c226fb0b00ca3f37c043588f36
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Thu Jan 18 09:20:13 2018 -0800
+
+    Update application conirmation w WQ dates
+
+commit fbbb13321b23fb79b6d2b1df4e4726873e41a636
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sun Jan 7 21:00:37 2018 -0800
+
+    Changed FQ dates to WQ dates
+
+commit f7b0b103c96d94db747b40f39e2ace50445adb47
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sat Oct 7 14:48:20 2017 +1300
+
+    update fb info session links
+
+commit 3d8be28546f2a85d33c928e763bf077fa948c959
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Thu Oct 5 17:54:06 2017 +1300
+
+    Update rsvp link for info session
+
+commit b8a257b22ea81f67926206b9c4c5d9a2fe781f5c
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Oct 2 22:47:18 2017 +1300
+
+    update info session locations
+
+commit f8c01a10cbb57ea1a75a7bc8d4ee15905daeea31
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sat Sep 30 09:50:18 2017 +1300
+
+    change info session time
+
+commit 68cc2d382e8a1f9cc8339d99680391cc438ccf9d
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Thu Sep 28 16:21:16 2017 +1300
+
+    fix background image on jumbotron (use cover)
+
+commit a148f53ba0d20fa9da2e79ba677839f53cc1baba
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Thu Sep 28 16:09:30 2017 +1300
+
+    change submission date
+
+commit 4521b249e1d185325b2c29c0d8aece166ee1bf26
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Thu Sep 28 14:31:33 2017 +1300
+
+    fix clients email
+
+commit 038c83efa1f2df3cbef5f23cfc865815d7f7db63
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Thu Sep 28 12:16:56 2017 +1300
+
+    fix client form
+
+commit 038b733946b22c61d18f21eaa63395a7662985c9
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Thu Sep 28 11:43:42 2017 +1300
+
+    update form spree emails
+
+commit 66c497c2ba5751f172a819e6d1fd9896272b8fe5
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Thu Sep 28 11:02:58 2017 +1300
+
+    update formspree emails
+
+commit 0467aab854d0f100c3abeecb9f0ed5549ab2ff7b
+Author: Sophie Maquiling <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 23:23:25 2017 +1300
+
+    Create CNAME
+
+commit 87e4e58e34bb4fc42a28179745cffbb703a1e6a1
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 23:19:23 2017 +1300
+
+    clean up directories
+
+commit 50f761b0a9600394ad563d0fcedee70a240c7f42
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 23:17:52 2017 +1300
+
+    add icons
+
+commit bb419a4421a3a7899fda09d539a74854116534da
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 22:30:12 2017 +1300
+
+    add padding to team images
+
+commit 9fbf362bca4907fb3e0db53c111955d338f29fdf
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 21:23:26 2017 +1300
+
+    change affix
+
+commit 531eedeaeb5ab75e13c5c25a0afb1879745e5f03
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 21:11:31 2017 +1300
+
+    add footer to all pages
+
+commit 1e0aae6cfc364994a65196736a6dfe60a7fdfb18
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 20:37:16 2017 +1300
+
+    mess around w/ jumbotron
+
+commit e1829bf69b810c8114cd91da06eb7d280e58b100
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 19:43:01 2017 +1300
+
+    add BCNC info
+
+commit f884f73d611b365049c6e64630723c873a47f103
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 19:34:00 2017 +1300
+
+    Add navbar dropdown
+
+commit 79fb2ab06a44062b9b41d414dd035e9ddbc8b92e
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 18:39:18 2017 +1300
+
+    Add active state to nabbers
+
+commit 8d74fda500e206a82cc2b6f34a1f1152b92ded36
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 18:08:34 2017 +1300
+
+    remove weird line spacing
+
+commit da97f4e3ed610bfd4b18543cf27bf2fc92c1db4c
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 18:03:21 2017 +1300
+
+    add team banner
+
+commit e4e820ae9a237ce804e1a263cd1914ec11409331
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 17:50:22 2017 +1300
+
+    Add team photos
+
+commit 799f4daad0d2239520c539a0ef7e246df79d4fb1
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 17:01:31 2017 +1300
+
+    move favicon link after stylesheets
+
+commit 3405234a35301cb31662c342f2be53a82daa2777
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 16:58:22 2017 +1300
+
+    add favicon
+
+commit 6e085c08f608c7a80afed7a898dcd9cd035af6c9
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 16:53:58 2017 +1300
+
+    fix nav links
+
+commit 3221fdc62fcc7fc5038a401c0216d060acf1174c
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 16:51:31 2017 +1300
+
+    increase padding b/t last row and footer
+
+commit fe5bca98be4a40d4e9fd477ce38815ae86b822dc
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 16:23:42 2017 +1300
+
+    make link hover/active color darker
+
+commit 077fa8c2344b53f37423807d471477a14521c1f5
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 16:01:35 2017 +1300
+
+    style CTA links
+
+commit e6997d20177f8e2bb4e26d46b02ea49ec10025e8
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 15:53:16 2017 +1300
+
+    style button interactions
+
+commit da16c5c94d26fc5eb52daf45b251b5298d0a2eb8
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 15:21:43 2017 +1300
+
+    style body link interactions
+
+commit cb3ae0f19207efce04325d68cfc6276d8bcbda0f
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 15:09:49 2017 +1300
+
+    separate font awesome icons for main and footer
+
+commit a929442bdbd7ebba4a74e3aa959f64934b05c626
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 15:07:15 2017 +1300
+
+    add links on students page
+
+commit 73c58aef4fb91c23e458a0e05149ecf16a5f334a
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 14:47:04 2017 +1300
+
+    change bulleted list to dashed list on clients page
+
+commit 8072abb829564b60072787feae40bc1f12e0165d
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 14:25:21 2017 +1300
+
+    Remove links on client testimonials
+
+commit 5b55ed52be9644c356ad738f6dc2bd0966825833
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 14:22:15 2017 +1300
+
+    attach links to contact page
+
+commit 04ff4a166c20f25146a55d14610542f5595a449a
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 14:17:02 2017 +1300
+
+    fix breadcrumbs on team and students
+
+commit 0902614996b2577ef3482ec17c2b1eb70e170a25
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 12:24:04 2017 +1300
+
+    update navbar logo link
+
+commit 63d225fe311feacca2c57acf16589aed435f5954
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 12:20:11 2017 +1300
+
+    style confirmation pages
+
+commit 76f6dd3fbb5eb7050575befa2e15b64e1b473c2a
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 09:49:51 2017 +1300
+
+    update navbar links to all pages
+
+commit 76e8604fe5c00f5b7cec101b62ab7a1973586e12
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 09:11:46 2017 +1300
+
+    link nabber; button removed
+
+commit 82eca481ca5790bce1d68d105c1a865a5e21c8c8
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 09:06:59 2017 +1300
+
+    move all stylesheets into style.css
+
+commit 6cbc7c6e9e709ba9c8405542c2717d5d4cd2d19a
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 08:51:20 2017 +1300
+
+    fix nabber to top, remove nabber button
+
+commit 9de934ee71b16835fa31de4faa8d97ffbf8193e5
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 08:14:02 2017 +1300
+
+    style smaller copyright weight
+
+commit 8b5af71dbdb0c52b242030e8e099b0a8768d5c0a
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 08:13:29 2017 +1300
+
+    temp styles to footer (change view md --> lg)
+
+commit 7f97cf075f966cdf59b5cdef7fc52e7043499318
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 08:06:34 2017 +1300
+
+    restyle footer for sm screen
+
+commit 63104894955bf342b3e47015d7196be31e6eaf4f
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 27 07:58:25 2017 +1300
+
+    add sponsors image
+
+commit d4b7003045228de24e57c301bbb77352eda4660c
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 23:20:56 2017 +1300
+
+    Add sponsor images. Add background to student app forms.
+
+commit 2e074c9a74bf59b1119328352cc399dc5c034743
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 21:54:39 2017 +1300
+
+    add form background
+
+commit 1a1bcea44fe0fe5a270dd373ea466660830b4c9e
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 21:37:22 2017 +1300
+
+    add names to student form
+
+commit e1f60df0e6eb830ce921c3a43add88834bff5b53
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 21:28:48 2017 +1300
+
+    add referrer meta tag
+
+commit c6c90f64f13217fa241d15894fd4d74c71452de9
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 21:26:19 2017 +1300
+
+    add _next to student app
+
+commit aab0e3e6799c156aa23dd03100a59ef5606fe7f8
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 18:15:03 2017 +1300
+
+    test different form options
+
+commit 10ec804cd95c45f85218af041ca4b605d7b50e96
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 17:54:00 2017 +1300
+
+    style forms
+
+commit ab347c72c15a9710fe5c7b3b349f5c81b0dbe082
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 17:05:46 2017 +1300
+
+    add CSS to forms
+
+commit 49b1967dce06ba44fede2290e267d314e95620be
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 11:31:41 2017 +1300
+
+    change _replyto back to email
+
+commit 78cb25ee6c3b443174110ae2e1b61fc6259c7b74
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 11:22:11 2017 +1300
+
+    test _next formspree
+
+commit eeec5c4032bf9c0cb14ea208a9528bcf09879973
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 11:13:00 2017 +1300
+
+    change email to _replyto
+
+commit 19492bd7ab3a7f6cdb147c6c09d17ea13d39ceb9
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 10:34:27 2017 +1300
+
+    test meta tag (formspree)
+
+commit 6e1aaf66a2d3e33c24b890e68145eef791289152
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 26 10:09:01 2017 +1300
+
+    style buttons on contact page
+
+commit b5ffc65ab35e06c65e395f127b61ad9af6037bdc
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 23:36:01 2017 +1300
+
+    index page layout
+
+commit 1581c326ca0e4375d6a8156404f8861c3ad5336c
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 23:19:31 2017 +1300
+
+    add formspree action
+
+commit f066b50eb87b2f4fac95e17ec5ebc6f8ccbf3d0d
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 22:51:39 2017 +1300
+
+    add content to client application
+
+commit 95ab5651a9e933595913600fd3312f03f340996c
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 22:43:14 2017 +1300
+
+    create student forms
+
+commit 74262b94ce721aa18441500852eeb058bed40fa5
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 21:36:28 2017 +1300
+
+    Add form content
+
+commit 970fd4d5b1006d4ef9cd16ed31fec601ac9e0beb
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 16:50:03 2017 +1300
+
+    add content to Clients
+
+commit fcbcd0775db47e275da2b16abf60d73b300071d1
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 16:13:23 2017 +1300
+
+    Add testimonial client logos
+
+commit 92b8bde684969e7c8627e8e0c1bdf2ae24d234dd
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 14:43:03 2017 +1300
+
+    Beautify
+
+commit eb4fca325b40bade3ad61da92ddf329fe0c85182
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 14:41:08 2017 +1300
+
+    Add layout for client application
+
+commit 4a36d8d9a6bdf7f0ae2d3bff7b9a79ec5d504594
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 14:37:58 2017 +1300
+
+    Create layout for student apply page
+
+commit e02acc65957bb1476974560b505ecd098f594f33
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 14:30:56 2017 +1300
+
+    Add layout of contact.html. Update comments on team.html
+
+commit b64debe1e13fd76d9fb588a5e93ecb7e0cf4e04c
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 14:25:13 2017 +1300
+
+    add layout of team.html
+
+commit b5bbcfe7413234e515164e36753916a916b9f934
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 14:19:20 2017 +1300
+
+    Move CSS into global stylesheets. Add clients html page layout, no content yet.
+
+commit 69c9c675d85c7d7ea6f0f7b1c991157083c6a7b2
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 00:18:00 2017 +1300
+
+    add fixme
+
+commit 0cc118cce0f7ac6654d7c5d9bfebfb8a9b9b794f
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Mon Sep 25 00:16:18 2017 +1300
+
+    Add header images. Currently testing headshot.
+    
+    Header image ratio 16:3
+
+commit fdb41c621f6ddf2596dbf7887633e62b5b303706
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sun Sep 24 17:51:46 2017 +1300
+
+    Style page button. Increase margin above footer.
+
+commit 9242936eada94987f44aebe956b3dbcbb4689795
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sun Sep 24 17:31:17 2017 +1300
+
+    Style page links
+
+commit fb8ff10f826619754840edb1a3924e1a0cb268ae
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sun Sep 24 09:32:33 2017 +1300
+
+    add breadcrumbs
+
+commit 8a19d91bb14a8ae7a7b1d2d745067b6a8d847342
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sat Sep 23 19:36:54 2017 +1200
+
+    add breadcrumbs
+
+commit f9e3a03ae441747dbc3da19803895f5d6974a00f
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sat Sep 23 18:32:28 2017 +1200
+
+    added header
+
+commit 557375a446ce2065a78a3718ca132c84f027cccc
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sat Sep 23 18:03:36 2017 +1200
+
+    mobile view schedule
+
+commit 1be658ef17e5349a97035f6b9c1274fe6be8b8ae
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sat Sep 23 11:43:49 2017 +1200
+
+    add individual stylesheet links to students page
+
+commit 6b0e2565bf1e2bc0abb75ebba94a1c716af20d68
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sat Sep 23 11:38:24 2017 +1200
+
+    style navbar and footer for mobile
+
+commit e28f164c7ac2e657e87b9efbbda7136fdb083ff2
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Sat Sep 23 10:18:56 2017 +1200
+
+    moving CSS into separate files (to put into one big file @ end)
+
+commit c0e2a9bbec42f8ef67273711a00d8195e1d08b69
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Fri Sep 22 22:01:50 2017 +1200
+
+    added <hr>s to the footer links
+
+commit eadacf01341dab95fc3f93179b955bb90cae78cb
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Fri Sep 22 12:03:19 2017 +1200
+
+    transfer students page from codeine
+
+commit 6b6b34d8d326b914a68ad2022723ceaec509fbae
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 20 12:44:53 2017 +1200
+
+    Style navbar and footer
+
+commit 7022cc4194ac1a6ddf930c4540d46231f05d1194
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 20 11:32:16 2017 +1200
+
+    add Font Awesome icons to footer
+
+commit e75d171c100620b9501ddbc7379f12e15a11009c
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Wed Sep 20 08:27:12 2017 +1200
+
+    Add fonts
+
+commit 8ec4190148e81d9d064ce85da216c9fc6ace6ac9
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 19 22:30:10 2017 +1200
+
+    add CYC logo
+
+commit e82e009906e9a4bc2293b6938aa0396a2bbc7a09
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 19 21:45:38 2017 +1200
+
+    add Bootstrap footer
+
+commit 463b21a44e4e57278adb130f179896836c36d282
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 19 21:23:57 2017 +1200
+
+    add Bootstrap navbar
+
+commit 8fb4ac1ea6e415bc28409846aa35b70d4a1ba374
+Author: sopmaq <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 19 21:10:14 2017 +1200
+
+    set up Bootstrap
+
+commit b9dbccd2864ecd5909d8509f394449c9a1bccc5c
+Author: Sophie Maquiling <scmaquiling@ucdavis.edu>
+Date:   Tue Sep 19 20:58:36 2017 +1200
+
+    Initial commit
