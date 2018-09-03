@@ -5,3 +5,103 @@
   <h4>Jordan Lim</h4>
   <p>VP of Engagement</p>
 </div>
+
+            <!--
+          -
+          -  Section 2 - Engagement Managers
+          -
+          -->
+            <div id="engagement" class="last-row">
+              <h1>Engagement Managers</h1>
+              <h2>Winter 2018</h2>
+              <div class="row">
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Arjun-Nathan---Engagement-Manager.jpg" class="img-responsive" alt="Photograph of Arjun Nathan"/>
+                    <h4>Arjun Nathan</h4>
+                </div>
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Jacob-Glazer---Engagement-Manager2.jpg" class="img-responsive" alt="Photograph of Jacob Glazer"/>
+                  <h4>Jacob Glazer</h4>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Taymour-Siddiqui---Engagement-Manager3.jpg" class="img-responsive" alt="Photograph of Taymour Siddiqui in business casual"/>
+                  <h4>Taymour Siddiqui</h4>
+                </div>
+              </div>
+            </div>
+            <!-- END Section 2 - Engagement Managers -->
+
+            <!--
+          -
+          -  Section 3 - Consultants
+          -
+          -->
+            <div id="consultants" class="last-row">
+              <h1>Consultants</h1>
+              <h2>Winter 2018</h2>
+              <div class="row">
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Isaac-Tovar---Consultant.jpg" class="img-responsive" alt="Photograph of Isaac Tovar"/>
+                    <h4>Isaac Tovar</h4>
+                </div>
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Meigan-Dutcher---Consultant.jpg" class="img-responsive" alt="Photograph of Meigan Dutcher"/>
+                  <h4>Meigan Dutcher</h4>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Nashiz-Memon---Consultant.jpg" class="img-responsive" alt="Photograph of Nashiz Memon in business casual"/>
+                  <h4>Nashiz Memon</h4>
+                </div>
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Paarth-Kapoor---Consultant.jpg" class="img-responsive" alt="Photograph of Paarth Kapoor in business casual"/>
+                  <h4>Paarth Kapoor</h4>
+                </div>
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/wilburn3.jpg" class="img-responsive" alt="Photograph of Wilburn Wang in business casual"/>
+                  <h4>Wilburn Wang</h4>
+                </div>
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Emita-Amatya---Consultant4.jpg" class="img-responsive" alt="Photograph of Emita Amatya in business casual"/>
+                  <h4>Emita Amatya</h4>
+                </div>
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Haneya-Mustafa---Consultant2.jpg" class="img-responsive" alt="Photograph of Haneya Mustafa in business casual"/>
+                  <h4>Haneya Mustafa</h4>
+                </div>
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Tabbasum-Malik---Consultant2.jpg" class="img-responsive" alt="Photograph of Tabbasum Malik in business casual"/>
+                  <h4>Tabbasum Malik</h4>
+                </div>
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Irina-Marutyan---Consultant2.jpg" class="img-responsive" alt="Photograph of Irina Marutyan in business casual"/>
+                  <h4>Irina Marutyan</h4>
+                </div>
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Manet-Yazidi---Consultant.jpg" class="img-responsive" alt="Photograph of Manet Yazidi in business casual"/>
+                  <h4>Manet Yazidi</h4>
+                </div>
+                <div class="col-sm-6">
+                  <!-- UPDATE TEAM PHOTO HERE -->
+                  <img src="../assets/team/Neha-Rathi---Consultant.jpg" class="img-responsive" alt="Photograph of Neha Rathi in business casual"/>
+                  <h4>Neha Rathi</h4>
+                </div>
+              </div>
+            </div>
+            <!-- END Section 3 - Consultants-->
