@@ -386,6 +386,7 @@ main {
 
 #sidebar {
   margin-top: 24px;
+  margin-right: 24px;
 }
 
 .affix {
@@ -393,7 +394,7 @@ main {
 }
 
 .affix-bottom {
-  position: relative;
+  position: absolute;
 }
 
 
